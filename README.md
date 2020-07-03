@@ -1,5 +1,4 @@
 # PE-8-Largest-product-in-a-series
-You should definitely use this
 
 
 Project Euler 8 Largest Product in a Series
